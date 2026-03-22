@@ -679,7 +679,7 @@ By completing this project, you will understand:
 
 **Happy Coding! 🚀**
 
-Built with ❤️ by [Your Name] | Moringa School AI Capstone 2026
+Built with ❤️ by Martha Wambui | Moringa School AI Capstone 2026
 
 [⬆ Back to Top](#vuejs-beginners-toolkit-)
 
